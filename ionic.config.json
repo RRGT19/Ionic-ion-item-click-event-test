@@ -1,0 +1,7 @@
+{
+  "name": "ionic-ion-item-click-event",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
